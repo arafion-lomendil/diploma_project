@@ -1,4 +1,4 @@
---Знакомство с данными таблицы purchases
+--Знакомство с данными основной таблицы purchases
 SELECT COUNT(order_id) AS order_cnt,
 COUNT(DISTINCT user_id) AS user_cnt
 FROM purchases;
@@ -30,3 +30,6 @@ MAX(revenue) AS max_revenue,
 ROUND(AVG(revenue)::integer,4) AS avg_revenue,
 ROUND(STDDEV(revenue)::integer,4) AS std_revenue
 FROM afisha.purchases;
+
+--Также рассмотрим таблицы events, cities, venues и regions
+SELECT
