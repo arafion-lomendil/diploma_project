@@ -27,6 +27,6 @@ ORDER BY 2 DESC;
 
 SELECT MIN(revenue) AS min_revenue,
 MAX(revenue) AS max_revenue,
-ROUND(AVG(revenue),4) AS avg_revenue,
-STDDEV(revenue) AS std_revenue
-FROM purchases;
+ROUND(AVG(revenue)::integer,4) AS avg_revenue,
+ROUND(STDDEV(revenue)::integer,4) AS std_revenue
+FROM afisha.purchases;
