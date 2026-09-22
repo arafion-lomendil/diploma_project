@@ -90,8 +90,7 @@
 
 ### 1. Знакомство с данными
 
-Изучена схема `afisha`, оценён объём данных, корректность
-и соответствие описанию. Проверены типы данных, пропуски, дубликаты.
+Изучена схема `afisha`.
 
 **Артефакт:** `data_overview.sql`
 
@@ -175,10 +174,10 @@
    ```bash
    git clone https://github.com/arafion-lomendil/diploma_project
    ```
-2. Установить зависимости:
-
-pip install pandas numpy scipy matplotlib seaborn
-
+2. Установить зависимости:   
+   ``` bash
+   pip install pandas numpy scipy matplotlib seaborn
+   ```
 3. Открыть ноутбук `python_analysis.ipynb`.
 Датасеты подгружаются автоматически по ссылкам в ячейках.
 
@@ -187,5 +186,5 @@ pip install pandas numpy scipy matplotlib seaborn
 
 
 ## Автор
-Рубцов Д.А.
+**Рубцов Д.А.**   
 Дата: 23.05.2026
