@@ -5,7 +5,7 @@
 
 **Автор:** Рубцов Д.А.  
 **Дата:** 23.05.2026  
-**Дашборд:** [Яндекс Афиша — DataLens](https://datalens.ru/gsbq2wfy6eos0-yandeks-afisha?_share_link=org)
+**Дашборд:** [Яндекс Афиша — DataLens](https://datalens.yandex/gsbq2wfy6eos0?_share_link=public)
 
 ---
 
@@ -118,7 +118,7 @@
 - таблицы с выделением топ-сегментов по суммарной выручке;
 - фильтрацию данных для удобной навигации.
 
-**Артефакты:** [Ссылка на дашборд](https://datalens.ru/gsbq2wfy6eos0-yandeks-afisha?_share_link=org), `dashboard.md`
+**Артефакты:** [Ссылка на дашборд](https://datalens.yandex/gsbq2wfy6eos0?_share_link=public), `dashboard.md`
 
 ### 4. EDA и проверка гипотез (Python)
 
@@ -180,7 +180,7 @@
 Датасеты подгружаются автоматически по ссылкам в ячейках.
 
 4. Дашборд доступен по
-[ссылке](https://datalens.ru/gsbq2wfy6eos0-yandeks-afisha?_share_link=org).
+[ссылке](https://datalens.yandex/gsbq2wfy6eos0?_share_link=public).
 
 ---
 
