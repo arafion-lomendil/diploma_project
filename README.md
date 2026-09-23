@@ -157,12 +157,13 @@
 ---
 
 ## Структура репозитория
+```
 ├── README.md
 ├── data_overview.sql
 ├── key_metrics.sql
 ├── dashboard.md
 └── afisha_analysis.ipynb
-
+```
 ---
 
 ## Как воспроизвести
@@ -181,6 +182,7 @@
 4. Дашборд доступен по
 [ссылке](https://datalens.ru/gsbq2wfy6eos0-yandeks-afisha?_share_link=org).
 
+---
 
 ## Автор
 **Рубцов Д.А.**   
